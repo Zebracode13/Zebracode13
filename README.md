@@ -1,9 +1,9 @@
 - 👋 Hi, I’m zele;
 - 🇪🇹 I am from Ethiopia
 - 👨🏾‍💻 I am a self taught programmer
-- 👀 I’m interested in ML, Web development and economics. 
-- 🌱 I’m currently learning Data Structures and Algorithms 
-- 💞️ I’m looking to collaborate on anything 
+- 👀 I’m interested in Data Engineering, Python-Django, and business economics. 
+- 🌱 I’m currently learning  Data Structures and Algorithms, and Data Science. 
+- 💞️ I’m looking to collaborate on ... lmk
 - 📫 How to reach me zele713@gmail.com
 
 <!---
